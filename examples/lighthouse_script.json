@@ -1,0 +1,17 @@
+{
+  "title": "The Last Keeper",
+  "style": "Moody 1970s adventure comic, deep storm blues and lamp-light amber, heavy shadows",
+  "characters": [
+    {"name": "Marta", "look": "Woman in her late 70s, small and wiry, white hair in a tight bun, weathered tan face, yellow oilskin coat over a grey wool sweater, rubber boots"},
+    {"name": "Leo", "look": "Boy about 12, skinny, messy black hair, big brown eyes, red hoodie, jeans, sneakers"},
+    {"name": "Captain", "look": "Broad bearded fisherman in his 50s, grey beard, navy knit cap, dark green rain jacket"}
+  ],
+  "panels": [
+    {"scene": "Wide view of a tall white-and-red lighthouse on a rocky cliff at night, a violent storm, rain in sheets, the town below completely dark. A tiny figure in a yellow coat climbs the outside steps at center.", "shot": "wide", "caption": "The night the whole coast went dark...", "dialogue": [], "sfx": "KRAKOOM!"},
+    {"scene": "Inside the spiral stairwell lit only by an oil lantern. Marta on the right, halfway up, holding the lantern. Leo on the left at the bottom in pajamas and red hoodie, looking up surprised.", "shot": "low-angle", "caption": null, "dialogue": [{"speaker": "Leo", "text": "Grandma? The power's out everywhere!", "kind": "speech", "position": "left"}, {"speaker": "Marta", "text": "Then grab the other handle. Help me carry this.", "kind": "speech", "position": "right"}], "sfx": null},
+    {"scene": "Top of the lighthouse, the great glass lens behind them. Marta on the left lights the wick with a match, Leo on the right shields the flame with his hands. Warm amber glow on both faces.", "shot": "close-up", "caption": null, "dialogue": [{"speaker": "Leo", "text": "Nobody even uses the light anymore...", "kind": "thought", "position": "right"}], "sfx": null},
+    {"scene": "Out at sea, a small fishing boat tossed by huge waves, its cabin dark. The Captain at center in the wheelhouse, staring at a bright beam cutting through the rain.", "shot": "medium", "caption": "Three miles out, every instrument was dead.", "dialogue": [{"speaker": "Captain", "text": "THERE! Hard to port!", "kind": "shout", "position": "center"}], "sfx": null},
+    {"scene": "Bright calm morning at the lighthouse door. The Captain on the right bows deeply, offering a basket of fish. Marta on the left, arms folded, quietly proud. Leo peeks from behind her.", "shot": "medium", "caption": "Next morning.", "dialogue": [], "sfx": null},
+    {"scene": "Sunset on the lighthouse gallery rail. Leo on the left grinning up at Marta on the right, who smiles at the horizon. Orange sky, calm sea.", "shot": "medium", "caption": null, "dialogue": [{"speaker": "Leo", "text": "Same time tonight?", "kind": "speech", "position": "left"}, {"speaker": "Marta", "text": "Same time every night.", "kind": "speech", "position": "right"}], "sfx": null}
+  ]
+}
